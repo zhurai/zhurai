@@ -1,11 +1,10 @@
-# Hello! I'm Hana, also known as zhurai
-
-## Current Projects
-## Currently Learning
-
-## Reach/Connect with me
-
-## Languages and Tools I use
+# Hello! I'm zhurai, also known as Hana
+<!-- TBD
+Current Projects
+Currently Learning
+Reach/Connect with me
+Languages and Tools I use
+-->
 
 ## Interesting Statistics
 [![zhurai/Hana's Github stats](https://github-readme-stats.vercel.app/api?username=zhurai&count_private=true&show_icons=true&theme=dark)](https://github.com/zhurai)
